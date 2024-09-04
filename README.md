@@ -48,3 +48,4 @@ This project could be extended in a number of ways. For example, the analysis co
 Conclusion:
 
 This project provides a valuable analysis of Airbnb bookings data in New York City. The findings can be used by Airbnb hosts and guests to make informed decisions about where to list or book Airbnb properties. The project could be extended in a number of ways to provide even more insights into the Airbnb market.
+![Airbnb project certificate image](https://github.com/user-attachments/assets/be047173-4728-4a41-b952-e76e533987ab)
